@@ -1,0 +1,6 @@
+{
+  "name": "Bazaar - Multi-Vendor General Store Marketplace",
+  "description": "Professional multi-vendor hyperlocal marketplace for general stores, grocery, dairy, vegetables, medicines, and stationery with customer order tracking and shopkeeper live dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
